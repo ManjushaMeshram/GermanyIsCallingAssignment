@@ -27,6 +27,9 @@ Step: 3) Created class file for Step Definition under "src/main/java/stepdefinit
 Step: 4) Created Test Runner file under "src/main/java/testrunner" folder, file name as "RunPurnaTest.java"
 
 
+**Cucumber Report: https://reports.cucumber.io/report-collections/7dd19dc1-0c83-4aec-9ef9-82e517d34af9**
+
+
 **Assumptions:**
 
 While completing the assignment I assumed that, I will complete the task using BDD Framework "properties file" which will provide the input values to the all execution steps. I have tried that way also, but I failed there.
